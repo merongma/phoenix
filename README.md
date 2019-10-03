@@ -37,7 +37,7 @@
 
 # 3. 화면구성
 
-![main](./resources/main.png)
+![main](./Phoenix/bin/src/main/resources/static/images/common/main.png)
 
 # 4. 구현영상
 
